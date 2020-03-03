@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Street_Racing",
+			"Path": "C:\\Users\\skird\\programming\\Projects\\L4V45H-game\\Game\\Street_Racing\\Source\\Street_Racing.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Street_RacingEditor",
+			"Path": "C:\\Users\\skird\\programming\\Projects\\L4V45H-game\\Game\\Street_Racing\\Source\\Street_RacingEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

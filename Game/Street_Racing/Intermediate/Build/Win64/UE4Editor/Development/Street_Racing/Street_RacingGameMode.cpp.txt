@@ -1,0 +1,18 @@
+C:\Users\skird\programming\Projects\L4V45H-game\Game\Street_Racing\Intermediate\Build\Win64\UE4Editor\Development\Street_Racing\Definitions.Street_Racing.h
+C:\Users\skird\programming\Projects\L4V45H-game\Game\Street_Racing\Source\Street_Racing\Street_RacingGameMode.h
+C:\Program Files\UnrealEngine4\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\UnrealEngine4\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\UnrealEngine4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\UnrealEngine4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\skird\programming\Projects\L4V45H-game\Game\Street_Racing\Intermediate\Build\Win64\UE4Editor\Inc\Street_Racing\Street_RacingGameMode.generated.h
+C:\Users\skird\programming\Projects\L4V45H-game\Game\Street_Racing\Source\Street_Racing\Street_RacingPawn.h
+C:\Program Files\UnrealEngine4\UE_4.24\Engine\Plugins\Runtime\PhysXVehicles\Source\PhysXVehicles\Public\WheeledVehicle.h
+C:\Program Files\UnrealEngine4\UE_4.24\Engine\Plugins\Runtime\PhysXVehicles\Intermediate\Build\Win64\UE4Editor\Inc\PhysXVehicles\WheeledVehicle.generated.h
+C:\Users\skird\programming\Projects\L4V45H-game\Game\Street_Racing\Intermediate\Build\Win64\UE4Editor\Inc\Street_Racing\Street_RacingPawn.generated.h
+C:\Users\skird\programming\Projects\L4V45H-game\Game\Street_Racing\Source\Street_Racing\Street_RacingHud.h
+C:\Program Files\UnrealEngine4\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+C:\Program Files\UnrealEngine4\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+C:\Program Files\UnrealEngine4\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+C:\Program Files\UnrealEngine4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+C:\Program Files\UnrealEngine4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+C:\Users\skird\programming\Projects\L4V45H-game\Game\Street_Racing\Intermediate\Build\Win64\UE4Editor\Inc\Street_Racing\Street_RacingHud.generated.h

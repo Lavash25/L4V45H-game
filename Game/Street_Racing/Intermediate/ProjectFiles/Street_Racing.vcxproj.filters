@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Street_Racing.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{BB43DA66-C24B-4B28-A869-BF3FDFF89649}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Street_Racing.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Street_RacingEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{F1F437DA-A345-44D7-847D-4B4935831463}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Street_Racing">
+      <UniqueIdentifier>{DE98893A-E501-4C56-B663-BC0EF5ACAFB2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Street_Racing\Street_Racing.Build.cs">
+      <Filter>Source\Street_Racing</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Street_Racing\Street_Racing.cpp">
+      <Filter>Source\Street_Racing</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Street_Racing\Street_Racing.h">
+      <Filter>Source\Street_Racing</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Street_Racing\Street_RacingGameMode.cpp">
+      <Filter>Source\Street_Racing</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Street_Racing\Street_RacingGameMode.h">
+      <Filter>Source\Street_Racing</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Street_Racing\Street_RacingHud.cpp">
+      <Filter>Source\Street_Racing</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Street_Racing\Street_RacingHud.h">
+      <Filter>Source\Street_Racing</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Street_Racing\Street_RacingPawn.cpp">
+      <Filter>Source\Street_Racing</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Street_Racing\Street_RacingPawn.h">
+      <Filter>Source\Street_Racing</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Street_Racing\Street_RacingWheelFront.cpp">
+      <Filter>Source\Street_Racing</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Street_Racing\Street_RacingWheelFront.h">
+      <Filter>Source\Street_Racing</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Street_Racing\Street_RacingWheelRear.cpp">
+      <Filter>Source\Street_Racing</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Street_Racing\Street_RacingWheelRear.h">
+      <Filter>Source\Street_Racing</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

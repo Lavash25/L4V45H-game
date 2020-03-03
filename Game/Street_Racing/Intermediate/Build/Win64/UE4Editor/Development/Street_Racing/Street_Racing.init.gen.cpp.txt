@@ -1,0 +1,3 @@
+C:\Users\skird\programming\Projects\L4V45H-game\Game\Street_Racing\Intermediate\Build\Win64\UE4Editor\Development\Street_Racing\Definitions.Street_Racing.h
+C:\Program Files\UnrealEngine4\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\UnrealEngine4\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
